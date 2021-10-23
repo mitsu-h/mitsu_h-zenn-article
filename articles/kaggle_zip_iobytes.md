@@ -39,11 +39,11 @@ loaded_clf.load_model(saved_filepath)
 
 Kaggleでは、使用したいファイルをinputフォルダにアップロードします。
 
-![](../images/kaggle%20add%20data.png)
+![](/images/kaggle%20add%20data.png)
 
 ここで、学習済みモデルのzipファイルをアップロードすると、自動でファイルが解凍されてしまいます
 
-![](../images/add_zipfile.png)
+![](/images/add_zipfile.png)
 
 以下、[Kaggle Staff](https://www.kaggle.com/questions-and-answers/56042#323415)のコメントを引用します
 
